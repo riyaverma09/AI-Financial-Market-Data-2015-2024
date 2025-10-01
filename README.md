@@ -3,9 +3,11 @@ Synthetic daily financial market dataset (2015–2024) covering AI leaders – O
 
 📊 AI Companies Financial Market Analysis (2015–2024)
 
+
 🟢 Problem Statement
 Artificial Intelligence (AI) has become a key driver of innovation and revenue for tech giants like Google (Gemini), Meta (LLaMA), and OpenAI (ChatGPT).
 However, understanding how R&D investments, AI product launches, and market events influence revenue growth and stock performance remains a challenge for analysts and investors.
+
 
 The problem lies in:
 
@@ -13,6 +15,8 @@ The problem lies in:
 2.Measuring the impact of AI launches (Gemini, LLaMA, GPT) on stock performance.
 3.Identifying event-based fluctuations in the market.
 4.Understanding the correlation between spending, revenue, and stock indices.
+
+
 
 🎯 Objectives of the Analysis
 
@@ -37,6 +41,8 @@ Using a synthetic dataset (2015–2024), we aim to answer:
 🔸How does the financial index change with respect to year & company?
 
 
+
+
 🛠 Solution Approach
 
 We used Python (Pandas, NumPy, Matplotlib, Seaborn) for this analysis.
@@ -55,6 +61,8 @@ Steps followed:
 
 ➡️Analyzed correlations between financial variables.
 
+
+
 🔑 Key Insights (Findings)
 
 🔹R&D Spending: Google and Meta consistently invested higher in R&D compared to OpenAI.
@@ -69,6 +77,8 @@ Steps followed:
 
 🔹Event Impact: Event analysis confirmed that product launches have a direct influence on market sentiment.
 
+
+
 📂 Dataset
 
 The dataset contains:
@@ -82,4 +92,4 @@ File format: CSV.
 📂 Dataset & Code
 
 This project (dataset + analysis) is available on Kaggle:
-AI Financial Market Data 2015-2024
+Kaggle notebook: "View on Kaggle: [https://www.kaggle.com/code/riyaverma2/ai-financial-market-data-2015-2024]"
