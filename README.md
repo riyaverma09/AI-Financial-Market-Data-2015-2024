@@ -1,6 +1,7 @@
 # AI-Financial-Market-Data-2015-2024
 Synthetic daily financial market dataset (2015–2024) covering AI leaders – OpenAI, Google (Gemini), and Meta (LLaMA). Includes R&amp;D investments, revenues, and major AI launch events.
 
+
 📊 AI Companies Financial Market Analysis (2015–2024)
 
 
@@ -43,6 +44,7 @@ Using a synthetic dataset (2015–2024), we aim to answer:
 
 
 
+
 🛠 Solution Approach
 
 We used Python (Pandas, NumPy, Matplotlib, Seaborn) for this analysis.
@@ -60,6 +62,7 @@ Steps followed:
 ➡️Compared expenditure vs. revenue trends to understand ROI.
 
 ➡️Analyzed correlations between financial variables.
+
 
 
 
@@ -88,6 +91,7 @@ Daily records of R&D spending, revenue, and stock data (2015–2024).
 Companies: Google (Gemini), Meta (LLaMA), OpenAI (ChatGPT).
 
 File format: CSV.
+
 
 📂 Dataset & Code
 
